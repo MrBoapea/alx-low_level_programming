@@ -4,7 +4,8 @@
  * add - add two numbers
  * @n1 - the first number
  * @n2 - the second number
- * Return: Integer value
+ *
+ * Return: the result of adding n1 and n2
  */
 int add(int n1, int n2)
 {
