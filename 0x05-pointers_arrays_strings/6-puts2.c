@@ -2,6 +2,7 @@
 /**
  * puts2 - function should print only one character out of two
  * starting with the first one
+ * @str: input
  * Return: print
  */
 void puts2(char *str)
@@ -10,7 +11,7 @@ void puts2(char *str)
 	int t = 0;
 	char *y = str;
 
-	int 0;
+	int o;
 
 	while (*y != '\0')
 	{
